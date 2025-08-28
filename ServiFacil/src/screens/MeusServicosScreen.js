@@ -80,7 +80,7 @@ export default function MeusServicosScreen({ navigation }) {
         <Text style={{ color: '#888', fontSize: 13 }}>(Filtre por dia, mês, ano...)</Text>
       </View>
       <View style={styles.rodape}>
-        <Text style={styles.rodapeText}>Desenvolvido por Cleber Delgado 48 999019525</Text>
+        <Text style={styles.rodapeText}>Desenvolvido por Cleber Delgado 48-999019525</Text>
       </View>
     </ScrollView>
   );
